@@ -1,9 +1,9 @@
-#📊 Data Science Salaries Analysis
+# 📊 Data Science Salaries Analysis
 
 This project explores and analyzes Data Science salary data using Python.
 The main goal is to clean, preprocess, and prepare the dataset for reliable analysis and modeling.
 
-##📁 Project Overview
+## 📁 Project Overview
 
 Real-world datasets are often messy. In this project, I focused on data cleaning and preprocessing to make the salary dataset accurate and analysis-ready.
 
@@ -17,7 +17,7 @@ Detecting and treating outliers
 
 Preparing clean data for further analysis and visualization
 
-##🛠️ Technologies & Libraries Used
+## 🛠️ Technologies & Libraries Used
 
 Python
 
@@ -29,8 +29,8 @@ SciPy / Z-score – outlier detection
 
 Scikit-learn – preprocessing and scaling
 
-##🧹 Data Cleaning Steps
-###1️⃣ Handling Missing Values
+## 🧹 Data Cleaning Steps
+### 1️⃣ Handling Missing Values
 
 Checked for null or missing values in all columns
 
@@ -40,19 +40,19 @@ Dropping rows with excessive missing data
 
 Filling missing numerical values when necessary
 
-###2️⃣ Removing Duplicates
+### 2️⃣ Removing Duplicates
 
 Identified duplicate rows in the dataset
 
 Removed them to prevent bias and inaccurate analysis
 
-###3️⃣ Outlier Detection & Treatment
+### 3️⃣ Outlier Detection & Treatment
 
 Used statistical methods such as Z-score to detect extreme values
 
 Outliers were handled to reduce their impact on the analysis
 
-#📈 Outcome
+# 📈 Outcome
 
 After preprocessing:
 
