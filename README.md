@@ -25,7 +25,7 @@ Pandas – data manipulation and cleaning
 
 NumPy – numerical operations
 
-SciPy / Z-score – outlier detection
+Z-score – outlier detection
 
 Scikit-learn – preprocessing and scaling
 
@@ -33,12 +33,7 @@ Scikit-learn – preprocessing and scaling
 ### 1️⃣ Handling Missing Values
 
 Checked for null or missing values in all columns
-
-Applied appropriate strategies such as:
-
-Dropping rows with excessive missing data
-
-Filling missing numerical values when necessary
+(there wasn't any missing values)
 
 ### 2️⃣ Removing Duplicates
 
